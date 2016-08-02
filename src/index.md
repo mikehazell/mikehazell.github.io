@@ -27,6 +27,7 @@ years in other roles. I am passionate about design and producing high quality co
 - Javascript ES5, 6 and 7, babel, Typescript.
 - HTML5, CSS3, SASS, Less, PostCSS, etc.
 - Gulp, Grunt, npm scripts.
+- Mocha, Karma, Chai, Selenium.
 - node, express.
 - PHP, Laravel, CodeIgniter.
 - Adobe Photoshop, Illustrator, AfterEffects, Flash etc.
